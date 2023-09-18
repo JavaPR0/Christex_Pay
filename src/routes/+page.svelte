@@ -72,8 +72,6 @@
           </div>
           
           <!-- <img src="https://tailwindui.com/img/component-images/project-app-screenshot.png" alt="App screenshot" width="2432" height="1442" class="w-[76rem] rounded-md shadow-2xl ring-1 ring-gray-900/10"> -->
-
-
         </div>
       </div>
     </div>
