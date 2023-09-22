@@ -25,6 +25,10 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"svelte-add": "^2023.8.31-0.0"
+		"@popperjs/core": "^2.11.8",
+		"flowbite": "^1.8.1",
+		"flowbite-svelte": "^0.44.15",
+		"svelte-add": "^2023.8.31-0.0",
+		"tailwind-merge": "^1.14.0"
 	}
 }
